@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>mainWindow.qml</file>
+        <file>img/book_fon.png</file>
+        <file>MemberTile.qml</file>
+        <file>MyButton.qml</file>
+        <file>img/add.png</file>
+        <file>img/delete.png</file>
+        <file>img/hide.png</file>
+        <file>img/error.png</file>
+        <file>AddWindow.qml</file>
+        <file>img/note.png</file>
+        <file>img/settings.png</file>
+        <file>PhotoView.qml</file>
+        <file>PhotoCard.qml</file>
+        <file>img/camera.png</file>
+        <file>SettingsWindow.qml</file>
+        <file>img/no.png</file>
+        <file>img/yes.png</file>
+        <file>ValueDisplay.qml</file>
+    </qresource>
+</RCC>
